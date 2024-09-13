@@ -40,3 +40,5 @@ Type 'firebase deploy' to deploy the web file <br>
 ## Step 10 : Copy the hosting URL<br>
   <p align="center"><img src="output/hostlink.png" alt="Deploy firebase" width="70%" /></p><br><br>
 
+# Other References
+[Host React on Firebase](https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/)
